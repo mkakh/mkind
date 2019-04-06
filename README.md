@@ -1,6 +1,7 @@
 # mkind
 
-`template.html`の一部分を`contents.txt`に置き換えるために作ったプログラム．
+`template.html`の一部分を`contents.txt`に置き換えるために作ったプログラム．  
+名前は，`make index.html`から．
 
 置き換え場所は，%TEMPLATEと書く．
 
