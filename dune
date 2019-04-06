@@ -1,0 +1,3 @@
+(executable
+  (name mkind)
+  (libraries stdio str))
